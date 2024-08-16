@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ```mermaid
 pie title Priorities
     "actual features" : 5
